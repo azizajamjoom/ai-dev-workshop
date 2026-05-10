@@ -1,0 +1,1001 @@
+date,order_id,product,category,region,quantity,unit_price,total_amount
+2024-04-24,ORD-000001,Laptop Pro,Electronics,South,2,1189.85,2379.7
+2024-01-17,ORD-000002,Gaming Console,Electronics,North,4,404.32,1617.28
+2024-01-14,ORD-000003,Tablet X,Electronics,South,5,579.18,2895.9
+2024-05-22,ORD-000004,Voice Assistant,Smart Home,North,5,78.49,392.45
+2024-04-20,ORD-000005,Laptop Stand,Accessories,East,2,33.81,67.62
+2024-06-25,ORD-000006,Laptop Pro,Electronics,East,3,755.9,2267.7
+2024-02-10,ORD-000007,"Smart TV 55""",Electronics,East,4,943.46,3773.84
+2024-01-24,ORD-000008,Smart Bulb Pack,Smart Home,South,1,157.01,157.01
+2024-07-13,ORD-000009,Wireless Headphones,Audio,East,1,303.69,303.69
+2024-04-17,ORD-000010,AR Glasses,Wearables,East,3,123.18,369.54
+2024-05-05,ORD-000011,Gaming Console,Electronics,South,5,1061.96,5309.8
+2024-04-22,ORD-000012,Smart Ring,Wearables,East,5,171.47,857.35
+2024-07-24,ORD-000013,Tablet X,Electronics,East,3,1286.15,3858.45
+2024-06-10,ORD-000014,Tablet X,Electronics,South,5,1395.75,6978.75
+2024-03-14,ORD-000015,Smart Ring,Wearables,East,4,448.1,1792.4
+2024-05-14,ORD-000016,Phone Case,Accessories,West,5,62.14,310.7
+2024-09-17,ORD-000017,Voice Assistant,Smart Home,West,2,109.63,219.26
+2024-11-17,ORD-000018,Laptop Pro,Electronics,South,2,1333.31,2666.62
+2024-11-01,ORD-000019,Health Monitor,Wearables,West,4,78.58,314.32
+2024-12-14,ORD-000020,Smart Bulb Pack,Smart Home,North,1,243.63,243.63
+2024-02-27,ORD-000021,Smart Bulb Pack,Smart Home,East,3,199.08,597.24
+2024-09-13,ORD-000022,Fitness Tracker,Wearables,South,3,254.17,762.51
+2024-11-23,ORD-000023,Smart Thermostat,Smart Home,South,3,221.5,664.5
+2024-09-28,ORD-000024,Screen Protector,Accessories,North,5,63.37,316.85
+2024-07-04,ORD-000025,Smart Bulb Pack,Smart Home,East,1,137.48,137.48
+2024-02-10,ORD-000026,USB-C Hub,Accessories,North,5,26.85,134.25
+2024-03-05,ORD-000027,Smartwatch Series 5,Wearables,South,5,490.08,2450.4
+2024-11-06,ORD-000028,Health Monitor,Wearables,West,5,124.3,621.5
+2024-12-31,ORD-000029,Keyboard Cover,Accessories,East,2,62.86,125.72
+2024-08-19,ORD-000030,AR Glasses,Wearables,North,5,247.14,1235.7
+2024-10-28,ORD-000031,Phone Case,Accessories,South,1,14.47,14.47
+2024-04-27,ORD-000032,Security Camera,Smart Home,North,1,31.57,31.57
+2024-05-22,ORD-000033,Smartphone Ultra,Electronics,West,2,385.02,770.04
+2024-10-22,ORD-000034,Keyboard Cover,Accessories,West,5,19.25,96.25
+2024-02-18,ORD-000035,Laptop Stand,Accessories,North,2,66.51,133.02
+2024-01-28,ORD-000036,AR Glasses,Wearables,North,4,240.6,962.4
+2024-05-07,ORD-000037,"Smart TV 55""",Electronics,South,1,1173.85,1173.85
+2024-04-03,ORD-000038,Keyboard Cover,Accessories,East,4,41.39,165.56
+2024-08-14,ORD-000039,Fitness Tracker,Wearables,North,1,443.51,443.51
+2024-05-01,ORD-000040,Gaming Console,Electronics,South,1,1303.22,1303.22
+2024-01-31,ORD-000041,Smart Ring,Wearables,South,4,266.6,1066.4
+2024-08-20,ORD-000042,Smartwatch Series 5,Wearables,East,3,493.38,1480.14
+2024-03-20,ORD-000043,Health Monitor,Wearables,South,4,347.83,1391.32
+2024-10-04,ORD-000044,Bluetooth Speaker,Audio,North,5,339.98,1699.9
+2024-09-14,ORD-000045,Wireless Headphones,Audio,South,4,46.04,184.16
+2024-02-05,ORD-000046,Gaming Console,Electronics,North,2,396.12,792.24
+2024-05-06,ORD-000047,Laptop Stand,Accessories,North,5,18.38,91.9
+2024-10-16,ORD-000048,Smart Thermostat,Smart Home,East,5,122.22,611.1
+2024-05-02,ORD-000049,Bluetooth Speaker,Audio,East,3,244.3,732.9
+2024-08-22,ORD-000050,Fitness Tracker,Wearables,East,3,352.25,1056.75
+2024-02-21,ORD-000051,Laptop Pro,Electronics,North,5,849.93,4249.65
+2024-06-27,ORD-000052,Security Camera,Smart Home,North,2,141.28,282.56
+2024-10-05,ORD-000053,Screen Protector,Accessories,East,4,29.94,119.76
+2024-06-02,ORD-000054,Smart Lock,Smart Home,North,5,31.71,158.55
+2024-10-10,ORD-000055,Screen Protector,Accessories,South,1,18.07,18.07
+2024-04-14,ORD-000056,Earbuds Pro,Audio,East,3,223.54,670.62
+2024-02-17,ORD-000057,Voice Assistant,Smart Home,West,1,85.24,85.24
+2024-11-22,ORD-000058,Wireless Headphones,Audio,East,2,31.12,62.24
+2024-10-14,ORD-000059,Laptop Stand,Accessories,North,4,48.61,194.44
+2024-10-06,ORD-000060,Laptop Pro,Electronics,North,2,1434.05,2868.1
+2024-03-06,ORD-000061,Studio Microphone,Audio,North,4,206.8,827.2
+2024-07-02,ORD-000062,Earbuds Pro,Audio,South,1,317.66,317.66
+2024-07-27,ORD-000063,USB-C Hub,Accessories,South,5,34.75,173.75
+2024-07-30,ORD-000064,Phone Case,Accessories,North,2,78.32,156.64
+2024-12-08,ORD-000065,Screen Protector,Accessories,South,4,64.76,259.04
+2024-07-14,ORD-000066,Bluetooth Speaker,Audio,North,1,281.95,281.95
+2024-06-28,ORD-000067,Fitness Tracker,Wearables,East,4,139.8,559.2
+2024-07-23,ORD-000068,Phone Case,Accessories,East,2,11.65,23.3
+2024-06-28,ORD-000069,Wireless Headphones,Audio,West,3,339.39,1018.17
+2024-05-13,ORD-000070,Smart Bulb Pack,Smart Home,South,1,236.62,236.62
+2024-08-10,ORD-000071,Smart Bulb Pack,Smart Home,East,5,38.41,192.05
+2024-02-29,ORD-000072,Soundbar,Audio,West,5,223.98,1119.9
+2024-01-01,ORD-000073,Security Camera,Smart Home,South,4,86.03,344.12
+2024-11-15,ORD-000074,Soundbar,Audio,East,3,52.38,157.14
+2024-06-16,ORD-000075,Smartphone Ultra,Electronics,West,4,908.54,3634.16
+2024-12-06,ORD-000076,Studio Microphone,Audio,West,4,70.72,282.88
+2024-10-07,ORD-000077,Keyboard Cover,Accessories,North,4,49.83,199.32
+2024-11-06,ORD-000078,Earbuds Pro,Audio,East,5,97.25,486.25
+2024-09-18,ORD-000079,Smart Ring,Wearables,West,2,248.96,497.92
+2024-06-20,ORD-000080,USB-C Hub,Accessories,North,5,29.86,149.3
+2024-03-16,ORD-000081,Screen Protector,Accessories,North,2,25.71,51.42
+2024-02-07,ORD-000082,Tablet X,Electronics,West,5,1480.71,7403.55
+2024-09-10,ORD-000083,Health Monitor,Wearables,West,4,137.49,549.96
+2024-02-24,ORD-000084,Phone Case,Accessories,West,1,55.91,55.91
+2024-08-25,ORD-000085,Phone Case,Accessories,North,5,66.28,331.4
+2024-08-21,ORD-000086,Security Camera,Smart Home,South,1,231.83,231.83
+2024-06-11,ORD-000087,Health Monitor,Wearables,West,5,494.54,2472.7
+2024-08-16,ORD-000088,Smart Lock,Smart Home,South,5,123.87,619.35
+2024-11-22,ORD-000089,Smart Ring,Wearables,East,2,166.63,333.26
+2024-08-13,ORD-000090,Voice Assistant,Smart Home,North,3,167.87,503.61
+2024-10-03,ORD-000091,Bluetooth Speaker,Audio,North,3,116.94,350.82
+2024-12-27,ORD-000092,Phone Case,Accessories,South,2,26.18,52.36
+2024-08-26,ORD-000093,"Smart TV 55""",Electronics,West,5,789.11,3945.55
+2024-10-26,ORD-000094,Tablet X,Electronics,North,4,1299.46,5197.84
+2024-06-01,ORD-000095,Voice Assistant,Smart Home,West,3,134.93,404.79
+2024-11-04,ORD-000096,Health Monitor,Wearables,South,5,386.37,1931.85
+2024-01-15,ORD-000097,Fitness Tracker,Wearables,West,4,172.81,691.24
+2024-03-06,ORD-000098,Soundbar,Audio,North,4,261.73,1046.92
+2024-02-12,ORD-000099,Health Monitor,Wearables,West,1,303.97,303.97
+2024-07-13,ORD-000100,Laptop Stand,Accessories,East,3,22.71,68.13
+2024-05-22,ORD-000101,Laptop Stand,Accessories,West,4,32.87,131.48
+2024-01-27,ORD-000102,Wireless Headphones,Audio,East,5,180.49,902.45
+2024-01-16,ORD-000103,USB-C Hub,Accessories,South,1,64.68,64.68
+2024-03-05,ORD-000104,USB-C Hub,Accessories,West,2,53.48,106.96
+2024-12-24,ORD-000105,Gaming Console,Electronics,East,4,1437.3,5749.2
+2024-03-24,ORD-000106,Bluetooth Speaker,Audio,East,1,223.88,223.88
+2024-10-21,ORD-000107,Gaming Console,Electronics,West,3,330.8,992.4
+2024-02-22,ORD-000108,Fitness Tracker,Wearables,East,2,84.19,168.38
+2024-01-22,ORD-000109,Smart Thermostat,Smart Home,East,5,205.16,1025.8
+2024-09-16,ORD-000110,Voice Assistant,Smart Home,East,1,175.52,175.52
+2024-08-09,ORD-000111,"Smart TV 55""",Electronics,East,1,1286.79,1286.79
+2024-11-29,ORD-000112,Fitness Tracker,Wearables,East,5,245.96,1229.8
+2024-08-11,ORD-000113,Smart Lock,Smart Home,East,4,200.41,801.64
+2024-05-22,ORD-000114,Bluetooth Speaker,Audio,West,1,295.82,295.82
+2024-06-21,ORD-000115,Laptop Stand,Accessories,North,4,49.88,199.52
+2024-06-30,ORD-000116,AR Glasses,Wearables,East,2,131.82,263.64
+2024-10-11,ORD-000117,Earbuds Pro,Audio,North,3,311.69,935.07
+2024-09-07,ORD-000118,Security Camera,Smart Home,South,4,48.82,195.28
+2024-02-17,ORD-000119,Smart Ring,Wearables,East,1,251.67,251.67
+2024-12-05,ORD-000120,Laptop Stand,Accessories,East,3,58.42,175.26
+2024-10-08,ORD-000121,Health Monitor,Wearables,East,4,288.9,1155.6
+2024-04-28,ORD-000122,Soundbar,Audio,North,3,116.68,350.04
+2024-12-19,ORD-000123,Screen Protector,Accessories,South,5,18.36,91.8
+2024-10-28,ORD-000124,Phone Case,Accessories,East,3,61.69,185.07
+2024-04-01,ORD-000125,Tablet X,Electronics,East,3,655.49,1966.47
+2024-01-28,ORD-000126,Gaming Console,Electronics,East,1,451.89,451.89
+2024-10-20,ORD-000127,Laptop Stand,Accessories,East,1,17.17,17.17
+2024-01-27,ORD-000128,Smart Ring,Wearables,East,2,248.2,496.4
+2024-09-08,ORD-000129,Smartwatch Series 5,Wearables,North,4,419.94,1679.76
+2024-06-04,ORD-000130,Smart Thermostat,Smart Home,North,5,63.37,316.85
+2024-11-06,ORD-000131,USB-C Hub,Accessories,South,4,49.06,196.24
+2024-06-01,ORD-000132,Voice Assistant,Smart Home,West,4,129.1,516.4
+2024-02-20,ORD-000133,Studio Microphone,Audio,South,5,228.72,1143.6
+2024-05-02,ORD-000134,Screen Protector,Accessories,South,2,56.22,112.44
+2024-08-18,ORD-000135,Smart Thermostat,Smart Home,West,4,64.43,257.72
+2024-12-25,ORD-000136,Wireless Headphones,Audio,West,3,104.06,312.18
+2024-12-04,ORD-000137,Tablet X,Electronics,South,5,1408.68,7043.4
+2024-05-16,ORD-000138,Smartwatch Series 5,Wearables,South,2,295.04,590.08
+2024-10-31,ORD-000139,Laptop Pro,Electronics,East,3,499.1,1497.3
+2024-12-24,ORD-000140,Smartwatch Series 5,Wearables,West,3,260.9,782.7
+2024-02-11,ORD-000141,Studio Microphone,Audio,North,4,202.78,811.12
+2024-02-16,ORD-000142,AR Glasses,Wearables,South,1,321.66,321.66
+2024-10-22,ORD-000143,Smart Lock,Smart Home,North,3,239.16,717.48
+2024-05-22,ORD-000144,Laptop Stand,Accessories,South,4,46.32,185.28
+2024-02-16,ORD-000145,Voice Assistant,Smart Home,West,4,169.64,678.56
+2024-03-23,ORD-000146,Soundbar,Audio,East,1,136.65,136.65
+2024-10-08,ORD-000147,Smart Ring,Wearables,North,4,179.69,718.76
+2024-02-29,ORD-000148,Smartwatch Series 5,Wearables,West,3,191.52,574.56
+2024-08-24,ORD-000149,Smart Thermostat,Smart Home,West,5,174.68,873.4
+2024-09-12,ORD-000150,Tablet X,Electronics,West,5,922.12,4610.6
+2024-05-27,ORD-000151,Tablet X,Electronics,West,2,620.46,1240.92
+2024-05-02,ORD-000152,Smartwatch Series 5,Wearables,South,5,62.98,314.9
+2024-02-17,ORD-000153,Studio Microphone,Audio,South,4,34.37,137.48
+2024-09-12,ORD-000154,"Smart TV 55""",Electronics,East,2,1436.46,2872.92
+2024-08-29,ORD-000155,Smart Bulb Pack,Smart Home,South,4,121.4,485.6
+2024-11-02,ORD-000156,Health Monitor,Wearables,South,2,115.08,230.16
+2024-06-23,ORD-000157,Smartphone Ultra,Electronics,East,4,1227.2,4908.8
+2024-10-23,ORD-000158,Smartphone Ultra,Electronics,West,5,1171.25,5856.25
+2024-06-19,ORD-000159,Laptop Stand,Accessories,West,3,47.69,143.07
+2024-10-19,ORD-000160,AR Glasses,Wearables,West,2,441.31,882.62
+2024-12-27,ORD-000161,Laptop Stand,Accessories,West,4,13.05,52.2
+2024-03-05,ORD-000162,Fitness Tracker,Wearables,East,1,272.89,272.89
+2024-01-08,ORD-000163,"Smart TV 55""",Electronics,South,4,419.64,1678.56
+2024-06-22,ORD-000164,Fitness Tracker,Wearables,West,3,83.66,250.98
+2024-07-13,ORD-000165,Smartphone Ultra,Electronics,East,5,1322.8,6614.0
+2024-04-30,ORD-000166,Health Monitor,Wearables,East,1,66.14,66.14
+2024-11-20,ORD-000167,USB-C Hub,Accessories,North,1,40.37,40.37
+2024-01-24,ORD-000168,Fitness Tracker,Wearables,East,1,362.29,362.29
+2024-03-15,ORD-000169,Smartphone Ultra,Electronics,South,4,730.15,2920.6
+2024-03-28,ORD-000170,Voice Assistant,Smart Home,South,2,154.49,308.98
+2024-12-15,ORD-000171,Gaming Console,Electronics,South,5,1345.0,6725.0
+2024-11-22,ORD-000172,Health Monitor,Wearables,East,4,114.39,457.56
+2024-05-27,ORD-000173,AR Glasses,Wearables,South,4,350.07,1400.28
+2024-06-02,ORD-000174,"Smart TV 55""",Electronics,West,5,1434.27,7171.35
+2024-07-15,ORD-000175,Soundbar,Audio,West,2,300.49,600.98
+2024-10-21,ORD-000176,Tablet X,Electronics,East,3,757.63,2272.89
+2024-05-20,ORD-000177,Wireless Headphones,Audio,North,4,342.93,1371.72
+2024-05-26,ORD-000178,Smart Thermostat,Smart Home,South,4,230.33,921.32
+2024-11-13,ORD-000179,Smart Bulb Pack,Smart Home,East,2,78.17,156.34
+2024-06-07,ORD-000180,USB-C Hub,Accessories,West,1,73.23,73.23
+2024-02-16,ORD-000181,Gaming Console,Electronics,East,2,737.82,1475.64
+2024-10-03,ORD-000182,Soundbar,Audio,East,2,86.19,172.38
+2024-05-11,ORD-000183,Smart Lock,Smart Home,West,2,230.96,461.92
+2024-02-08,ORD-000184,Earbuds Pro,Audio,South,4,287.34,1149.36
+2024-07-06,ORD-000185,Laptop Stand,Accessories,North,5,77.7,388.5
+2024-08-20,ORD-000186,Smartwatch Series 5,Wearables,East,1,169.0,169.0
+2024-02-25,ORD-000187,Studio Microphone,Audio,South,3,151.92,455.76
+2024-06-16,ORD-000188,Smartwatch Series 5,Wearables,South,5,328.79,1643.95
+2024-11-28,ORD-000189,"Smart TV 55""",Electronics,West,3,1391.26,4173.78
+2024-06-04,ORD-000190,Tablet X,Electronics,West,1,354.41,354.41
+2024-03-10,ORD-000191,Laptop Pro,Electronics,West,5,581.75,2908.75
+2024-08-02,ORD-000192,AR Glasses,Wearables,South,5,351.71,1758.55
+2024-07-27,ORD-000193,Smartwatch Series 5,Wearables,East,5,425.15,2125.75
+2024-04-30,ORD-000194,Smartphone Ultra,Electronics,East,4,560.71,2242.84
+2024-02-01,ORD-000195,Smartphone Ultra,Electronics,West,3,953.35,2860.05
+2024-02-16,ORD-000196,Bluetooth Speaker,Audio,South,4,339.82,1359.28
+2024-05-04,ORD-000197,Smart Thermostat,Smart Home,South,3,41.12,123.36
+2024-04-16,ORD-000198,Security Camera,Smart Home,South,5,45.08,225.4
+2024-01-02,ORD-000199,Screen Protector,Accessories,East,5,64.2,321.0
+2024-02-26,ORD-000200,Phone Case,Accessories,North,2,47.81,95.62
+2024-10-28,ORD-000201,USB-C Hub,Accessories,East,2,35.07,70.14
+2024-08-03,ORD-000202,Tablet X,Electronics,North,2,618.43,1236.86
+2024-09-19,ORD-000203,"Smart TV 55""",Electronics,North,3,837.92,2513.76
+2024-01-23,ORD-000204,Health Monitor,Wearables,East,5,149.69,748.45
+2024-07-24,ORD-000205,Smartwatch Series 5,Wearables,West,4,77.36,309.44
+2024-02-07,ORD-000206,"Smart TV 55""",Electronics,North,4,1154.87,4619.48
+2024-05-20,ORD-000207,Studio Microphone,Audio,East,2,77.46,154.92
+2024-09-15,ORD-000208,Health Monitor,Wearables,West,4,288.74,1154.96
+2024-04-20,ORD-000209,Laptop Pro,Electronics,West,5,1323.34,6616.7
+2024-07-23,ORD-000210,Fitness Tracker,Wearables,West,4,236.21,944.84
+2024-07-10,ORD-000211,Smartphone Ultra,Electronics,South,3,812.11,2436.33
+2024-02-17,ORD-000212,Smartwatch Series 5,Wearables,West,1,91.04,91.04
+2024-01-31,ORD-000213,Smartphone Ultra,Electronics,East,5,1274.11,6370.55
+2024-01-27,ORD-000214,"Smart TV 55""",Electronics,East,4,724.31,2897.24
+2024-09-16,ORD-000215,Smart Bulb Pack,Smart Home,South,5,107.35,536.75
+2024-06-28,ORD-000216,Laptop Stand,Accessories,East,1,25.69,25.69
+2024-10-14,ORD-000217,Smartphone Ultra,Electronics,North,4,988.91,3955.64
+2024-12-25,ORD-000218,Smart Bulb Pack,Smart Home,East,3,36.36,109.08
+2024-10-16,ORD-000219,Earbuds Pro,Audio,West,2,31.94,63.88
+2024-02-16,ORD-000220,Tablet X,Electronics,South,1,1189.15,1189.15
+2024-07-08,ORD-000221,Smart Ring,Wearables,East,2,254.13,508.26
+2024-03-20,ORD-000222,Studio Microphone,Audio,South,1,220.78,220.78
+2024-08-14,ORD-000223,Smart Thermostat,Smart Home,West,3,178.26,534.78
+2024-04-20,ORD-000224,Health Monitor,Wearables,North,3,248.91,746.73
+2024-09-06,ORD-000225,Soundbar,Audio,East,5,65.47,327.35
+2024-01-29,ORD-000226,Tablet X,Electronics,North,5,774.31,3871.55
+2024-05-10,ORD-000227,Screen Protector,Accessories,East,2,76.16,152.32
+2024-03-30,ORD-000228,Wireless Headphones,Audio,South,4,32.46,129.84
+2024-10-13,ORD-000229,Health Monitor,Wearables,East,5,366.64,1833.2
+2024-08-11,ORD-000230,"Smart TV 55""",Electronics,North,1,1334.11,1334.11
+2024-08-07,ORD-000231,Smartwatch Series 5,Wearables,West,5,437.94,2189.7
+2024-06-15,ORD-000232,AR Glasses,Wearables,South,1,101.82,101.82
+2024-02-15,ORD-000233,Voice Assistant,Smart Home,West,3,213.04,639.12
+2024-09-25,ORD-000234,Tablet X,Electronics,North,4,822.8,3291.2
+2024-06-19,ORD-000235,AR Glasses,Wearables,South,2,385.6,771.2
+2024-09-18,ORD-000236,Gaming Console,Electronics,South,5,1059.86,5299.3
+2024-04-30,ORD-000237,Earbuds Pro,Audio,North,2,262.75,525.5
+2024-03-19,ORD-000238,Screen Protector,Accessories,North,5,23.8,119.0
+2024-10-23,ORD-000239,Laptop Stand,Accessories,West,5,42.47,212.35
+2024-03-18,ORD-000240,Smart Lock,Smart Home,West,3,101.1,303.3
+2024-05-20,ORD-000241,"Smart TV 55""",Electronics,North,3,830.64,2491.92
+2024-08-19,ORD-000242,Studio Microphone,Audio,North,4,53.73,214.92
+2024-11-26,ORD-000243,Smartphone Ultra,Electronics,North,1,1298.03,1298.03
+2024-10-24,ORD-000244,Smart Lock,Smart Home,North,4,141.54,566.16
+2024-11-05,ORD-000245,Health Monitor,Wearables,West,3,343.32,1029.96
+2024-02-22,ORD-000246,Security Camera,Smart Home,East,4,240.69,962.76
+2024-05-06,ORD-000247,Gaming Console,Electronics,West,1,1075.34,1075.34
+2024-07-05,ORD-000248,Health Monitor,Wearables,East,2,285.23,570.46
+2024-12-13,ORD-000249,Soundbar,Audio,North,3,160.8,482.4
+2024-12-13,ORD-000250,Wireless Headphones,Audio,West,5,135.49,677.45
+2024-03-17,ORD-000251,Earbuds Pro,Audio,East,5,261.58,1307.9
+2024-06-07,ORD-000252,Gaming Console,Electronics,West,3,1096.32,3288.96
+2024-06-07,ORD-000253,Keyboard Cover,Accessories,West,1,59.61,59.61
+2024-02-17,ORD-000254,Bluetooth Speaker,Audio,West,5,244.43,1222.15
+2024-04-02,ORD-000255,Smart Bulb Pack,Smart Home,South,3,34.0,102.0
+2024-03-20,ORD-000256,Soundbar,Audio,North,2,91.43,182.86
+2024-09-26,ORD-000257,Wireless Headphones,Audio,North,5,192.45,962.25
+2024-03-19,ORD-000258,Studio Microphone,Audio,South,4,71.93,287.72
+2024-08-12,ORD-000259,Keyboard Cover,Accessories,North,2,66.62,133.24
+2024-08-15,ORD-000260,AR Glasses,Wearables,East,2,354.35,708.7
+2024-08-28,ORD-000261,Fitness Tracker,Wearables,South,3,290.3,870.9
+2024-05-24,ORD-000262,Studio Microphone,Audio,West,4,345.01,1380.04
+2024-04-12,ORD-000263,Smart Lock,Smart Home,South,2,122.1,244.2
+2024-10-10,ORD-000264,Wireless Headphones,Audio,North,3,235.17,705.51
+2024-05-19,ORD-000265,Smart Thermostat,Smart Home,West,2,92.7,185.4
+2024-04-23,ORD-000266,Security Camera,Smart Home,West,1,212.82,212.82
+2024-09-14,ORD-000267,Wireless Headphones,Audio,East,4,162.76,651.04
+2024-04-24,ORD-000268,Laptop Stand,Accessories,North,3,79.61,238.83
+2024-03-15,ORD-000269,Wireless Headphones,Audio,South,3,298.53,895.59
+2024-12-22,ORD-000270,Smartphone Ultra,Electronics,South,4,1400.87,5603.48
+2024-01-10,ORD-000271,Smart Ring,Wearables,East,1,326.9,326.9
+2024-09-27,ORD-000272,Phone Case,Accessories,West,5,48.41,242.05
+2024-01-25,ORD-000273,Smartphone Ultra,Electronics,South,1,585.16,585.16
+2024-09-12,ORD-000274,Health Monitor,Wearables,North,1,255.69,255.69
+2024-05-29,ORD-000275,Smart Lock,Smart Home,West,2,83.22,166.44
+2024-08-01,ORD-000276,Gaming Console,Electronics,South,5,723.37,3616.85
+2024-09-26,ORD-000277,Gaming Console,Electronics,North,1,1469.58,1469.58
+2024-07-10,ORD-000278,Smart Ring,Wearables,East,4,69.58,278.32
+2024-05-03,ORD-000279,Smartphone Ultra,Electronics,North,3,1246.21,3738.63
+2024-10-06,ORD-000280,Smart Bulb Pack,Smart Home,East,3,59.34,178.02
+2024-11-19,ORD-000281,Laptop Stand,Accessories,South,4,78.65,314.6
+2024-01-19,ORD-000282,USB-C Hub,Accessories,East,4,60.11,240.44
+2024-06-10,ORD-000283,USB-C Hub,Accessories,East,1,65.37,65.37
+2024-08-30,ORD-000284,Voice Assistant,Smart Home,East,5,247.6,1238.0
+2024-12-01,ORD-000285,Tablet X,Electronics,East,1,643.32,643.32
+2024-07-23,ORD-000286,Wireless Headphones,Audio,West,4,285.78,1143.12
+2024-12-20,ORD-000287,AR Glasses,Wearables,West,4,488.17,1952.68
+2024-08-05,ORD-000288,Studio Microphone,Audio,North,1,115.34,115.34
+2024-10-06,ORD-000289,Health Monitor,Wearables,East,2,497.78,995.56
+2024-06-05,ORD-000290,Wireless Headphones,Audio,West,3,55.61,166.83
+2024-06-28,ORD-000291,Voice Assistant,Smart Home,West,4,66.65,266.6
+2024-05-20,ORD-000292,Smartphone Ultra,Electronics,North,4,1037.81,4151.24
+2024-01-16,ORD-000293,"Smart TV 55""",Electronics,South,2,735.96,1471.92
+2024-04-30,ORD-000294,Voice Assistant,Smart Home,East,1,37.65,37.65
+2024-11-05,ORD-000295,Soundbar,Audio,South,1,333.82,333.82
+2024-10-20,ORD-000296,AR Glasses,Wearables,South,1,217.4,217.4
+2024-05-07,ORD-000297,Smart Bulb Pack,Smart Home,North,3,117.56,352.68
+2024-10-14,ORD-000298,Tablet X,Electronics,North,4,898.84,3595.36
+2024-11-09,ORD-000299,Earbuds Pro,Audio,East,2,255.28,510.56
+2024-08-19,ORD-000300,Fitness Tracker,Wearables,South,1,105.18,105.18
+2024-12-07,ORD-000301,Smartwatch Series 5,Wearables,East,3,414.72,1244.16
+2024-03-21,ORD-000302,Gaming Console,Electronics,South,3,950.6,2851.8
+2024-03-12,ORD-000303,Studio Microphone,Audio,South,2,101.75,203.5
+2024-07-07,ORD-000304,Smartwatch Series 5,Wearables,West,5,212.39,1061.95
+2024-02-03,ORD-000305,Security Camera,Smart Home,East,1,164.62,164.62
+2024-10-21,ORD-000306,Smart Ring,Wearables,North,4,286.55,1146.2
+2024-08-26,ORD-000307,Screen Protector,Accessories,East,4,54.95,219.8
+2024-03-07,ORD-000308,Keyboard Cover,Accessories,West,2,54.78,109.56
+2024-03-19,ORD-000309,Smart Thermostat,Smart Home,East,5,212.9,1064.5
+2024-06-26,ORD-000310,Phone Case,Accessories,East,2,32.58,65.16
+2024-05-20,ORD-000311,Smartphone Ultra,Electronics,South,5,535.55,2677.75
+2024-11-24,ORD-000312,Studio Microphone,Audio,South,5,200.7,1003.5
+2024-11-05,ORD-000313,Smart Lock,Smart Home,East,5,63.91,319.55
+2024-02-11,ORD-000314,Smart Thermostat,Smart Home,North,1,211.54,211.54
+2024-08-01,ORD-000315,Smart Bulb Pack,Smart Home,North,5,173.24,866.2
+2024-09-04,ORD-000316,Health Monitor,Wearables,South,3,180.34,541.02
+2024-03-21,ORD-000317,AR Glasses,Wearables,West,1,254.08,254.08
+2024-11-06,ORD-000318,Smart Ring,Wearables,South,3,258.99,776.97
+2024-07-23,ORD-000319,Earbuds Pro,Audio,South,3,264.93,794.79
+2024-05-03,ORD-000320,Studio Microphone,Audio,West,3,209.72,629.16
+2024-02-19,ORD-000321,Smartphone Ultra,Electronics,North,2,839.51,1679.02
+2024-05-07,ORD-000322,Soundbar,Audio,South,4,306.52,1226.08
+2024-03-22,ORD-000323,Studio Microphone,Audio,West,2,260.75,521.5
+2024-09-11,ORD-000324,Voice Assistant,Smart Home,North,3,139.72,419.16
+2024-04-20,ORD-000325,"Smart TV 55""",Electronics,East,2,906.52,1813.04
+2024-11-30,ORD-000326,Laptop Pro,Electronics,West,5,637.62,3188.1
+2024-08-08,ORD-000327,Studio Microphone,Audio,South,1,32.61,32.61
+2024-01-24,ORD-000328,Earbuds Pro,Audio,West,3,274.42,823.26
+2024-10-10,ORD-000329,Gaming Console,Electronics,East,3,974.17,2922.51
+2024-05-23,ORD-000330,"Smart TV 55""",Electronics,North,5,905.1,4525.5
+2024-10-12,ORD-000331,USB-C Hub,Accessories,East,3,37.56,112.68
+2024-09-13,ORD-000332,Phone Case,Accessories,North,4,52.16,208.64
+2024-08-30,ORD-000333,Laptop Pro,Electronics,West,3,464.43,1393.29
+2024-06-16,ORD-000334,Keyboard Cover,Accessories,East,2,72.51,145.02
+2024-10-30,ORD-000335,Laptop Stand,Accessories,East,3,79.33,237.99
+2024-06-02,ORD-000336,Smart Lock,Smart Home,West,5,147.1,735.5
+2024-08-01,ORD-000337,Smartphone Ultra,Electronics,East,1,697.48,697.48
+2024-10-22,ORD-000338,Gaming Console,Electronics,South,5,869.5,4347.5
+2024-11-18,ORD-000339,Gaming Console,Electronics,West,5,876.53,4382.65
+2024-04-07,ORD-000340,Phone Case,Accessories,North,1,12.2,12.2
+2024-12-19,ORD-000341,AR Glasses,Wearables,South,4,238.44,953.76
+2024-02-01,ORD-000342,Health Monitor,Wearables,South,4,398.73,1594.92
+2024-09-26,ORD-000343,Security Camera,Smart Home,West,4,153.39,613.56
+2024-06-24,ORD-000344,Bluetooth Speaker,Audio,East,5,177.08,885.4
+2024-05-22,ORD-000345,Studio Microphone,Audio,East,2,184.93,369.86
+2024-12-19,ORD-000346,Screen Protector,Accessories,West,2,63.97,127.94
+2024-05-27,ORD-000347,Soundbar,Audio,North,3,141.61,424.83
+2024-06-25,ORD-000348,Smart Lock,Smart Home,South,4,113.52,454.08
+2024-06-26,ORD-000349,Wireless Headphones,Audio,West,1,122.03,122.03
+2024-05-18,ORD-000350,Soundbar,Audio,East,5,98.47,492.35
+2024-05-02,ORD-000351,USB-C Hub,Accessories,South,5,53.09,265.45
+2024-01-27,ORD-000352,Gaming Console,Electronics,North,2,570.8,1141.6
+2024-12-14,ORD-000353,AR Glasses,Wearables,South,1,372.8,372.8
+2024-07-27,ORD-000354,Gaming Console,Electronics,West,2,1473.48,2946.96
+2024-06-13,ORD-000355,Fitness Tracker,Wearables,East,3,390.15,1170.45
+2024-09-30,ORD-000356,Laptop Pro,Electronics,North,2,1082.75,2165.5
+2024-01-19,ORD-000357,Laptop Stand,Accessories,West,2,71.75,143.5
+2024-01-20,ORD-000358,Fitness Tracker,Wearables,North,3,471.46,1414.38
+2024-05-25,ORD-000359,Studio Microphone,Audio,West,3,222.88,668.64
+2024-09-15,ORD-000360,Smart Lock,Smart Home,West,2,138.65,277.3
+2024-03-24,ORD-000361,Bluetooth Speaker,Audio,West,3,288.81,866.43
+2024-05-31,ORD-000362,Bluetooth Speaker,Audio,South,3,34.5,103.5
+2024-08-06,ORD-000363,Keyboard Cover,Accessories,East,4,69.92,279.68
+2024-03-12,ORD-000364,"Smart TV 55""",Electronics,West,2,1103.1,2206.2
+2024-04-30,ORD-000365,Bluetooth Speaker,Audio,West,4,32.18,128.72
+2024-01-06,ORD-000366,Earbuds Pro,Audio,East,5,126.61,633.05
+2024-08-26,ORD-000367,Bluetooth Speaker,Audio,East,1,49.87,49.87
+2024-12-19,ORD-000368,Laptop Stand,Accessories,North,3,58.02,174.06
+2024-03-09,ORD-000369,Earbuds Pro,Audio,West,2,226.67,453.34
+2024-07-10,ORD-000370,Laptop Stand,Accessories,West,5,62.33,311.65
+2024-05-06,ORD-000371,Voice Assistant,Smart Home,North,2,196.61,393.22
+2024-02-09,ORD-000372,Voice Assistant,Smart Home,North,3,146.19,438.57
+2024-10-20,ORD-000373,Gaming Console,Electronics,South,2,1383.46,2766.92
+2024-02-29,ORD-000374,Screen Protector,Accessories,South,4,69.8,279.2
+2024-08-16,ORD-000375,Voice Assistant,Smart Home,North,5,50.0,250.0
+2024-10-15,ORD-000376,Fitness Tracker,Wearables,North,4,280.95,1123.8
+2024-01-12,ORD-000377,Voice Assistant,Smart Home,West,3,178.0,534.0
+2024-02-07,ORD-000378,Wireless Headphones,Audio,North,5,268.65,1343.25
+2024-01-31,ORD-000379,AR Glasses,Wearables,North,5,365.16,1825.8
+2024-03-10,ORD-000380,Smartwatch Series 5,Wearables,West,2,179.18,358.36
+2024-07-11,ORD-000381,Soundbar,Audio,North,4,173.52,694.08
+2024-03-01,ORD-000382,Security Camera,Smart Home,South,3,173.77,521.31
+2024-01-02,ORD-000383,Voice Assistant,Smart Home,North,2,146.34,292.68
+2024-08-05,ORD-000384,Soundbar,Audio,West,5,245.51,1227.55
+2024-05-21,ORD-000385,Phone Case,Accessories,South,2,42.23,84.46
+2024-11-10,ORD-000386,Laptop Pro,Electronics,North,4,1271.36,5085.44
+2024-01-18,ORD-000387,Phone Case,Accessories,West,5,14.7,73.5
+2024-07-24,ORD-000388,Smart Thermostat,Smart Home,West,1,83.83,83.83
+2024-03-12,ORD-000389,Keyboard Cover,Accessories,East,1,25.2,25.2
+2024-12-10,ORD-000390,Keyboard Cover,Accessories,East,5,32.31,161.55
+2024-04-23,ORD-000391,Screen Protector,Accessories,West,5,71.33,356.65
+2024-03-30,ORD-000392,Earbuds Pro,Audio,West,5,49.5,247.5
+2024-11-25,ORD-000393,Voice Assistant,Smart Home,West,3,40.3,120.9
+2024-03-17,ORD-000394,Smart Bulb Pack,Smart Home,East,4,183.18,732.72
+2024-05-03,ORD-000395,Fitness Tracker,Wearables,South,4,389.48,1557.92
+2024-10-14,ORD-000396,Bluetooth Speaker,Audio,West,1,287.84,287.84
+2024-05-04,ORD-000397,Health Monitor,Wearables,East,4,288.49,1153.96
+2024-07-08,ORD-000398,Screen Protector,Accessories,North,4,55.26,221.04
+2024-12-10,ORD-000399,Security Camera,Smart Home,North,4,41.33,165.32
+2024-12-09,ORD-000400,Tablet X,Electronics,South,5,1265.57,6327.85
+2024-06-04,ORD-000401,Fitness Tracker,Wearables,North,3,441.25,1323.75
+2024-09-02,ORD-000402,Phone Case,Accessories,South,1,77.34,77.34
+2024-10-09,ORD-000403,Security Camera,Smart Home,East,2,117.25,234.5
+2024-06-06,ORD-000404,Soundbar,Audio,East,3,179.19,537.57
+2024-02-20,ORD-000405,Studio Microphone,Audio,West,4,312.49,1249.96
+2024-01-24,ORD-000406,Bluetooth Speaker,Audio,South,4,148.62,594.48
+2024-10-23,ORD-000407,USB-C Hub,Accessories,West,5,28.24,141.2
+2024-07-13,ORD-000408,Bluetooth Speaker,Audio,South,2,92.77,185.54
+2024-05-11,ORD-000409,Health Monitor,Wearables,West,3,344.56,1033.68
+2024-03-27,ORD-000410,Smart Ring,Wearables,South,3,125.7,377.1
+2024-11-24,ORD-000411,Voice Assistant,Smart Home,North,5,70.48,352.4
+2024-12-08,ORD-000412,Smart Thermostat,Smart Home,North,1,214.59,214.59
+2024-02-04,ORD-000413,"Smart TV 55""",Electronics,South,2,464.98,929.96
+2024-01-31,ORD-000414,Tablet X,Electronics,West,3,906.87,2720.61
+2024-07-29,ORD-000415,Smartwatch Series 5,Wearables,North,5,52.97,264.85
+2024-05-26,ORD-000416,Gaming Console,Electronics,North,5,1166.62,5833.1
+2024-02-24,ORD-000417,Voice Assistant,Smart Home,North,2,207.35,414.7
+2024-09-26,ORD-000418,Security Camera,Smart Home,East,5,83.0,415.0
+2024-07-10,ORD-000419,Earbuds Pro,Audio,West,1,284.37,284.37
+2024-06-02,ORD-000420,Health Monitor,Wearables,North,2,159.43,318.86
+2024-10-09,ORD-000421,Laptop Pro,Electronics,West,4,786.32,3145.28
+2024-09-12,ORD-000422,Laptop Pro,Electronics,West,1,1143.4,1143.4
+2024-09-27,ORD-000423,Studio Microphone,Audio,North,1,342.74,342.74
+2024-08-31,ORD-000424,Phone Case,Accessories,East,5,73.08,365.4
+2024-10-05,ORD-000425,Laptop Pro,Electronics,North,3,1121.3,3363.9
+2024-10-27,ORD-000426,Screen Protector,Accessories,South,2,11.09,22.18
+2024-05-03,ORD-000427,Smartwatch Series 5,Wearables,West,5,184.66,923.3
+2024-12-18,ORD-000428,Smart Bulb Pack,Smart Home,North,2,114.44,228.88
+2024-04-28,ORD-000429,Smart Bulb Pack,Smart Home,North,4,41.8,167.2
+2024-07-22,ORD-000430,Studio Microphone,Audio,East,5,276.07,1380.35
+2024-09-08,ORD-000431,Smartphone Ultra,Electronics,South,4,1240.25,4961.0
+2024-04-05,ORD-000432,Studio Microphone,Audio,West,4,331.16,1324.64
+2024-12-31,ORD-000433,Gaming Console,Electronics,North,2,654.45,1308.9
+2024-07-18,ORD-000434,Smartphone Ultra,Electronics,East,2,485.06,970.12
+2024-08-15,ORD-000435,Wireless Headphones,Audio,East,3,59.28,177.84
+2024-08-08,ORD-000436,Wireless Headphones,Audio,West,2,72.39,144.78
+2024-01-14,ORD-000437,Smart Lock,Smart Home,North,1,142.73,142.73
+2024-06-15,ORD-000438,Studio Microphone,Audio,West,5,59.77,298.85
+2024-10-13,ORD-000439,Smartphone Ultra,Electronics,South,1,796.56,796.56
+2024-03-27,ORD-000440,Smart Lock,Smart Home,South,4,67.3,269.2
+2024-02-02,ORD-000441,Earbuds Pro,Audio,South,2,115.88,231.76
+2024-02-09,ORD-000442,AR Glasses,Wearables,East,4,239.49,957.96
+2024-10-31,ORD-000443,Bluetooth Speaker,Audio,South,4,260.68,1042.72
+2024-07-21,ORD-000444,Smartwatch Series 5,Wearables,East,1,110.96,110.96
+2024-08-13,ORD-000445,Voice Assistant,Smart Home,East,3,206.89,620.67
+2024-11-04,ORD-000446,Health Monitor,Wearables,South,3,111.25,333.75
+2024-06-12,ORD-000447,AR Glasses,Wearables,East,4,129.93,519.72
+2024-07-11,ORD-000448,Health Monitor,Wearables,East,3,401.88,1205.64
+2024-04-12,ORD-000449,AR Glasses,Wearables,South,5,101.24,506.2
+2024-12-28,ORD-000450,Smart Thermostat,Smart Home,South,4,239.65,958.6
+2024-07-28,ORD-000451,AR Glasses,Wearables,West,1,424.07,424.07
+2024-08-04,ORD-000452,Screen Protector,Accessories,West,2,26.93,53.86
+2024-10-25,ORD-000453,"Smart TV 55""",Electronics,West,4,1488.83,5955.32
+2024-10-05,ORD-000454,Smart Lock,Smart Home,North,4,233.16,932.64
+2024-02-25,ORD-000455,Studio Microphone,Audio,South,1,220.01,220.01
+2024-10-15,ORD-000456,Bluetooth Speaker,Audio,West,1,237.03,237.03
+2024-05-12,ORD-000457,Soundbar,Audio,South,1,63.89,63.89
+2024-04-23,ORD-000458,Smart Lock,Smart Home,West,5,152.75,763.75
+2024-12-19,ORD-000459,Soundbar,Audio,South,5,178.17,890.85
+2024-07-31,ORD-000460,Wireless Headphones,Audio,North,3,184.48,553.44
+2024-08-21,ORD-000461,Tablet X,Electronics,South,3,717.98,2153.94
+2024-08-12,ORD-000462,Voice Assistant,Smart Home,West,1,106.62,106.62
+2024-01-12,ORD-000463,Wireless Headphones,Audio,East,1,126.07,126.07
+2024-09-21,ORD-000464,Tablet X,Electronics,South,2,1415.9,2831.8
+2024-08-24,ORD-000465,Security Camera,Smart Home,South,4,102.81,411.24
+2024-07-21,ORD-000466,Fitness Tracker,Wearables,North,4,133.86,535.44
+2024-07-18,ORD-000467,Security Camera,Smart Home,North,4,128.9,515.6
+2024-10-22,ORD-000468,Phone Case,Accessories,North,1,29.47,29.47
+2024-08-22,ORD-000469,Security Camera,Smart Home,North,2,110.46,220.92
+2024-11-01,ORD-000470,Soundbar,Audio,West,3,198.86,596.58
+2024-06-29,ORD-000471,Voice Assistant,Smart Home,West,3,159.13,477.39
+2024-11-10,ORD-000472,Security Camera,Smart Home,North,3,209.01,627.03
+2024-02-29,ORD-000473,Screen Protector,Accessories,South,3,18.24,54.72
+2024-11-01,ORD-000474,Bluetooth Speaker,Audio,South,4,193.45,773.8
+2024-11-21,ORD-000475,Voice Assistant,Smart Home,South,4,123.06,492.24
+2024-04-05,ORD-000476,Security Camera,Smart Home,East,2,137.71,275.42
+2024-01-05,ORD-000477,Health Monitor,Wearables,West,3,74.12,222.36
+2024-09-15,ORD-000478,Phone Case,Accessories,West,5,67.06,335.3
+2024-09-07,ORD-000479,Smart Ring,Wearables,South,4,237.02,948.08
+2024-05-29,ORD-000480,Gaming Console,Electronics,North,2,337.02,674.04
+2024-08-22,ORD-000481,Bluetooth Speaker,Audio,West,2,202.02,404.04
+2024-05-17,ORD-000482,Smart Lock,Smart Home,East,1,54.9,54.9
+2024-10-06,ORD-000483,Smart Thermostat,Smart Home,South,4,197.19,788.76
+2024-06-01,ORD-000484,Smartwatch Series 5,Wearables,North,2,381.18,762.36
+2024-08-12,ORD-000485,AR Glasses,Wearables,North,1,206.85,206.85
+2024-12-18,ORD-000486,Phone Case,Accessories,East,5,66.74,333.7
+2024-04-15,ORD-000487,Voice Assistant,Smart Home,South,2,66.51,133.02
+2024-11-01,ORD-000488,Gaming Console,Electronics,South,3,720.97,2162.91
+2024-09-20,ORD-000489,Earbuds Pro,Audio,North,3,122.58,367.74
+2024-12-01,ORD-000490,Laptop Stand,Accessories,South,3,74.3,222.9
+2024-05-06,ORD-000491,Phone Case,Accessories,West,3,20.23,60.69
+2024-11-17,ORD-000492,Fitness Tracker,Wearables,West,3,309.83,929.49
+2024-07-25,ORD-000493,Smart Ring,Wearables,East,1,83.97,83.97
+2024-10-24,ORD-000494,Soundbar,Audio,North,3,334.07,1002.21
+2024-02-02,ORD-000495,"Smart TV 55""",Electronics,West,3,1061.8,3185.4
+2024-05-17,ORD-000496,Laptop Stand,Accessories,East,4,67.73,270.92
+2024-10-16,ORD-000497,Earbuds Pro,Audio,West,2,205.13,410.26
+2024-01-09,ORD-000498,Wireless Headphones,Audio,North,4,44.69,178.76
+2024-04-13,ORD-000499,Laptop Stand,Accessories,South,4,41.95,167.8
+2024-02-17,ORD-000500,Bluetooth Speaker,Audio,East,3,309.81,929.43
+2024-01-27,ORD-000501,Wireless Headphones,Audio,West,2,148.98,297.96
+2024-12-26,ORD-000502,Bluetooth Speaker,Audio,North,1,167.34,167.34
+2024-10-30,ORD-000503,Tablet X,Electronics,South,2,872.16,1744.32
+2024-03-02,ORD-000504,Voice Assistant,Smart Home,West,3,32.03,96.09
+2024-02-15,ORD-000505,Laptop Stand,Accessories,North,4,14.95,59.8
+2024-03-11,ORD-000506,Smartphone Ultra,Electronics,West,3,741.06,2223.18
+2024-01-05,ORD-000507,Phone Case,Accessories,South,5,14.78,73.9
+2024-07-29,ORD-000508,AR Glasses,Wearables,West,2,375.08,750.16
+2024-03-04,ORD-000509,USB-C Hub,Accessories,West,2,72.75,145.5
+2024-05-06,ORD-000510,Soundbar,Audio,East,2,130.63,261.26
+2024-11-07,ORD-000511,Tablet X,Electronics,East,5,964.07,4820.35
+2024-09-17,ORD-000512,Smartphone Ultra,Electronics,South,5,546.52,2732.6
+2024-09-10,ORD-000513,AR Glasses,Wearables,West,2,340.77,681.54
+2024-02-06,ORD-000514,Tablet X,Electronics,North,5,899.49,4497.45
+2024-08-03,ORD-000515,Earbuds Pro,Audio,East,5,72.22,361.1
+2024-01-09,ORD-000516,Security Camera,Smart Home,North,1,197.79,197.79
+2024-07-22,ORD-000517,Smartphone Ultra,Electronics,East,1,558.88,558.88
+2024-02-12,ORD-000518,Voice Assistant,Smart Home,South,4,123.18,492.72
+2024-04-14,ORD-000519,Wireless Headphones,Audio,South,5,129.16,645.8
+2024-06-07,ORD-000520,Smart Bulb Pack,Smart Home,West,1,115.95,115.95
+2024-02-29,ORD-000521,USB-C Hub,Accessories,West,4,27.1,108.4
+2024-03-02,ORD-000522,Smart Lock,Smart Home,North,2,42.1,84.2
+2024-09-24,ORD-000523,USB-C Hub,Accessories,East,3,21.46,64.38
+2024-03-01,ORD-000524,Screen Protector,Accessories,North,3,18.88,56.64
+2024-05-14,ORD-000525,Soundbar,Audio,North,1,117.02,117.02
+2024-09-12,ORD-000526,Smart Ring,Wearables,South,1,279.84,279.84
+2024-10-20,ORD-000527,Bluetooth Speaker,Audio,North,1,111.63,111.63
+2024-05-05,ORD-000528,Keyboard Cover,Accessories,North,1,10.17,10.17
+2024-04-01,ORD-000529,AR Glasses,Wearables,North,2,222.33,444.66
+2024-08-01,ORD-000530,Voice Assistant,Smart Home,East,2,79.38,158.76
+2024-09-14,ORD-000531,Wireless Headphones,Audio,North,1,212.88,212.88
+2024-07-24,ORD-000532,Phone Case,Accessories,North,1,66.29,66.29
+2024-06-16,ORD-000533,AR Glasses,Wearables,North,3,398.08,1194.24
+2024-05-29,ORD-000534,Voice Assistant,Smart Home,East,2,31.74,63.48
+2024-09-09,ORD-000535,Security Camera,Smart Home,South,5,132.05,660.25
+2024-01-13,ORD-000536,Security Camera,Smart Home,South,4,63.11,252.44
+2024-06-20,ORD-000537,Smart Bulb Pack,Smart Home,North,1,169.9,169.9
+2024-05-01,ORD-000538,AR Glasses,Wearables,West,5,96.77,483.85
+2024-12-30,ORD-000539,Smartwatch Series 5,Wearables,East,2,487.64,975.28
+2024-07-30,ORD-000540,Laptop Pro,Electronics,East,5,1405.52,7027.6
+2024-03-09,ORD-000541,Smartwatch Series 5,Wearables,West,5,311.34,1556.7
+2024-12-05,ORD-000542,Gaming Console,Electronics,South,4,981.37,3925.48
+2024-07-20,ORD-000543,Screen Protector,Accessories,East,3,28.26,84.78
+2024-04-13,ORD-000544,Soundbar,Audio,South,1,117.02,117.02
+2024-08-18,ORD-000545,Smart Thermostat,Smart Home,West,2,64.18,128.36
+2024-04-16,ORD-000546,Soundbar,Audio,West,3,68.63,205.89
+2024-02-16,ORD-000547,Soundbar,Audio,South,1,114.79,114.79
+2024-03-16,ORD-000548,Studio Microphone,Audio,North,3,42.9,128.7
+2024-12-12,ORD-000549,Screen Protector,Accessories,East,1,37.73,37.73
+2024-08-19,ORD-000550,Bluetooth Speaker,Audio,South,4,39.94,159.76
+2024-03-03,ORD-000551,"Smart TV 55""",Electronics,North,2,422.28,844.56
+2024-07-09,ORD-000552,Tablet X,Electronics,North,4,456.85,1827.4
+2024-01-12,ORD-000553,Smart Lock,Smart Home,North,1,86.93,86.93
+2024-06-18,ORD-000554,Laptop Stand,Accessories,North,1,66.64,66.64
+2024-08-09,ORD-000555,"Smart TV 55""",Electronics,West,5,360.76,1803.8
+2024-03-29,ORD-000556,Smartwatch Series 5,Wearables,East,4,222.22,888.88
+2024-03-17,ORD-000557,Phone Case,Accessories,North,4,29.24,116.96
+2024-09-12,ORD-000558,Smart Lock,Smart Home,West,3,165.72,497.16
+2024-07-15,ORD-000559,Voice Assistant,Smart Home,South,3,43.41,130.23
+2024-05-07,ORD-000560,Fitness Tracker,Wearables,North,5,339.18,1695.9
+2024-06-25,ORD-000561,AR Glasses,Wearables,East,4,265.85,1063.4
+2024-11-01,ORD-000562,AR Glasses,Wearables,South,3,130.91,392.73
+2024-09-28,ORD-000563,Smartphone Ultra,Electronics,East,4,370.3,1481.2
+2024-05-06,ORD-000564,Security Camera,Smart Home,South,1,244.27,244.27
+2024-04-22,ORD-000565,Studio Microphone,Audio,West,1,291.2,291.2
+2024-06-11,ORD-000566,Bluetooth Speaker,Audio,East,5,86.34,431.7
+2024-10-17,ORD-000567,Smart Thermostat,Smart Home,South,3,184.75,554.25
+2024-10-04,ORD-000568,Security Camera,Smart Home,East,4,214.06,856.24
+2024-04-29,ORD-000569,Laptop Stand,Accessories,South,1,12.65,12.65
+2024-11-10,ORD-000570,Gaming Console,Electronics,South,3,873.58,2620.74
+2024-01-31,ORD-000571,Screen Protector,Accessories,North,3,60.18,180.54
+2024-02-26,ORD-000572,Keyboard Cover,Accessories,East,2,59.32,118.64
+2024-10-27,ORD-000573,Smartphone Ultra,Electronics,North,4,1145.44,4581.76
+2024-08-11,ORD-000574,Earbuds Pro,Audio,West,2,133.22,266.44
+2024-12-21,ORD-000575,Bluetooth Speaker,Audio,East,5,256.29,1281.45
+2024-06-06,ORD-000576,Keyboard Cover,Accessories,East,4,67.0,268.0
+2024-07-19,ORD-000577,Phone Case,Accessories,North,5,61.01,305.05
+2024-04-23,ORD-000578,Keyboard Cover,Accessories,North,5,32.27,161.35
+2024-05-01,ORD-000579,Fitness Tracker,Wearables,East,1,199.02,199.02
+2024-12-28,ORD-000580,Bluetooth Speaker,Audio,East,1,233.57,233.57
+2024-12-20,ORD-000581,Smartwatch Series 5,Wearables,North,2,169.34,338.68
+2024-01-25,ORD-000582,Earbuds Pro,Audio,West,1,281.84,281.84
+2024-09-09,ORD-000583,Smart Ring,Wearables,West,4,486.09,1944.36
+2024-10-22,ORD-000584,Studio Microphone,Audio,South,4,150.1,600.4
+2024-05-30,ORD-000585,Laptop Stand,Accessories,North,1,15.15,15.15
+2024-06-24,ORD-000586,Earbuds Pro,Audio,South,1,334.52,334.52
+2024-02-17,ORD-000587,Fitness Tracker,Wearables,East,5,379.38,1896.9
+2024-08-08,ORD-000588,Smart Lock,Smart Home,South,1,226.5,226.5
+2024-06-18,ORD-000589,Voice Assistant,Smart Home,South,1,64.55,64.55
+2024-05-15,ORD-000590,Laptop Stand,Accessories,East,5,58.79,293.95
+2024-10-19,ORD-000591,Bluetooth Speaker,Audio,West,4,60.68,242.72
+2024-02-14,ORD-000592,USB-C Hub,Accessories,East,4,35.25,141.0
+2024-04-15,ORD-000593,Voice Assistant,Smart Home,South,1,73.92,73.92
+2024-06-06,ORD-000594,Wireless Headphones,Audio,West,1,181.53,181.53
+2024-02-16,ORD-000595,Smart Ring,Wearables,West,3,452.68,1358.04
+2024-04-05,ORD-000596,Screen Protector,Accessories,West,3,71.97,215.91
+2024-04-25,ORD-000597,Smartphone Ultra,Electronics,East,3,827.68,2483.04
+2024-02-13,ORD-000598,Smart Thermostat,Smart Home,East,1,63.24,63.24
+2024-04-26,ORD-000599,Voice Assistant,Smart Home,North,5,243.55,1217.75
+2024-12-17,ORD-000600,Health Monitor,Wearables,West,5,238.37,1191.85
+2024-07-21,ORD-000601,Security Camera,Smart Home,North,1,134.77,134.77
+2024-12-12,ORD-000602,Smart Lock,Smart Home,South,5,228.09,1140.45
+2024-04-18,ORD-000603,"Smart TV 55""",Electronics,South,2,507.44,1014.88
+2024-04-13,ORD-000604,USB-C Hub,Accessories,South,4,39.63,158.52
+2024-02-14,ORD-000605,Smart Bulb Pack,Smart Home,West,1,100.33,100.33
+2024-09-23,ORD-000606,Voice Assistant,Smart Home,West,3,151.44,454.32
+2024-02-27,ORD-000607,Gaming Console,Electronics,West,4,1005.08,4020.32
+2024-02-21,ORD-000608,Phone Case,Accessories,North,5,49.65,248.25
+2024-06-25,ORD-000609,Smart Thermostat,Smart Home,West,5,202.85,1014.25
+2024-11-07,ORD-000610,Soundbar,Audio,West,5,239.52,1197.6
+2024-11-12,ORD-000611,Tablet X,Electronics,West,2,630.49,1260.98
+2024-12-19,ORD-000612,"Smart TV 55""",Electronics,South,3,1367.48,4102.44
+2024-01-11,ORD-000613,"Smart TV 55""",Electronics,East,3,1404.99,4214.97
+2024-12-22,ORD-000614,Earbuds Pro,Audio,North,4,119.7,478.8
+2024-06-13,ORD-000615,Phone Case,Accessories,East,4,31.02,124.08
+2024-08-14,ORD-000616,Health Monitor,Wearables,South,2,340.49,680.98
+2024-01-29,ORD-000617,Smart Ring,Wearables,South,3,391.76,1175.28
+2024-03-10,ORD-000618,Smartphone Ultra,Electronics,North,4,1151.47,4605.88
+2024-01-30,ORD-000619,Phone Case,Accessories,South,2,71.25,142.5
+2024-12-26,ORD-000620,"Smart TV 55""",Electronics,South,3,360.66,1081.98
+2024-07-22,ORD-000621,Earbuds Pro,Audio,North,5,293.51,1467.55
+2024-08-16,ORD-000622,Tablet X,Electronics,South,5,746.95,3734.75
+2024-03-24,ORD-000623,Health Monitor,Wearables,East,3,298.09,894.27
+2024-03-24,ORD-000624,Smartphone Ultra,Electronics,South,1,332.93,332.93
+2024-11-29,ORD-000625,Phone Case,Accessories,West,3,57.43,172.29
+2024-08-30,ORD-000626,Smart Thermostat,Smart Home,South,1,220.21,220.21
+2024-05-09,ORD-000627,Keyboard Cover,Accessories,East,2,66.05,132.1
+2024-08-23,ORD-000628,Soundbar,Audio,East,3,316.54,949.62
+2024-11-15,ORD-000629,Laptop Stand,Accessories,West,5,31.14,155.7
+2024-10-14,ORD-000630,Smart Thermostat,Smart Home,East,3,31.61,94.83
+2024-05-21,ORD-000631,Wireless Headphones,Audio,East,3,184.15,552.45
+2024-04-06,ORD-000632,Earbuds Pro,Audio,South,3,239.95,719.85
+2024-07-25,ORD-000633,Security Camera,Smart Home,East,5,227.92,1139.6
+2024-05-12,ORD-000634,USB-C Hub,Accessories,West,3,55.87,167.61
+2024-12-28,ORD-000635,Smart Ring,Wearables,South,5,381.52,1907.6
+2024-12-09,ORD-000636,Bluetooth Speaker,Audio,East,4,249.61,998.44
+2024-04-02,ORD-000637,Smart Bulb Pack,Smart Home,East,5,215.98,1079.9
+2024-10-13,ORD-000638,"Smart TV 55""",Electronics,South,3,453.52,1360.56
+2024-06-06,ORD-000639,Wireless Headphones,Audio,West,2,101.11,202.22
+2024-08-25,ORD-000640,Earbuds Pro,Audio,North,3,113.37,340.11
+2024-10-24,ORD-000641,Smartwatch Series 5,Wearables,North,5,439.87,2199.35
+2024-09-28,ORD-000642,Fitness Tracker,Wearables,East,4,275.2,1100.8
+2024-03-11,ORD-000643,Smartwatch Series 5,Wearables,South,2,441.87,883.74
+2024-03-14,ORD-000644,Soundbar,Audio,East,4,345.89,1383.56
+2024-06-09,ORD-000645,USB-C Hub,Accessories,North,2,44.12,88.24
+2024-10-22,ORD-000646,"Smart TV 55""",Electronics,South,2,628.22,1256.44
+2024-11-20,ORD-000647,Smartwatch Series 5,Wearables,West,4,108.22,432.88
+2024-01-03,ORD-000648,Smart Ring,Wearables,North,4,484.39,1937.56
+2024-06-13,ORD-000649,Security Camera,Smart Home,South,1,190.73,190.73
+2024-04-25,ORD-000650,Laptop Pro,Electronics,East,2,1052.01,2104.02
+2024-10-28,ORD-000651,Bluetooth Speaker,Audio,East,5,62.86,314.3
+2024-05-28,ORD-000652,USB-C Hub,Accessories,West,3,67.66,202.98
+2024-12-17,ORD-000653,Smart Lock,Smart Home,South,4,145.3,581.2
+2024-03-25,ORD-000654,Soundbar,Audio,West,2,144.95,289.9
+2024-04-18,ORD-000655,Tablet X,Electronics,North,2,569.18,1138.36
+2024-12-30,ORD-000656,Smart Lock,Smart Home,North,3,67.17,201.51
+2024-01-25,ORD-000657,AR Glasses,Wearables,North,5,397.05,1985.25
+2024-08-01,ORD-000658,Laptop Pro,Electronics,West,1,357.87,357.87
+2024-12-25,ORD-000659,Smartwatch Series 5,Wearables,South,4,296.27,1185.08
+2024-12-05,ORD-000660,USB-C Hub,Accessories,East,1,31.07,31.07
+2024-02-23,ORD-000661,Smart Lock,Smart Home,North,4,184.15,736.6
+2024-04-11,ORD-000662,Wireless Headphones,Audio,South,4,281.11,1124.44
+2024-12-26,ORD-000663,Studio Microphone,Audio,West,3,341.39,1024.17
+2024-04-16,ORD-000664,Bluetooth Speaker,Audio,West,4,42.6,170.4
+2024-02-26,ORD-000665,Bluetooth Speaker,Audio,West,1,30.87,30.87
+2024-02-21,ORD-000666,USB-C Hub,Accessories,East,1,64.56,64.56
+2024-05-15,ORD-000667,Laptop Stand,Accessories,West,3,79.2,237.6
+2024-05-28,ORD-000668,Laptop Pro,Electronics,East,1,1275.8,1275.8
+2024-01-24,ORD-000669,Soundbar,Audio,North,1,266.32,266.32
+2024-11-14,ORD-000670,Phone Case,Accessories,East,4,33.0,132.0
+2024-02-28,ORD-000671,Smartphone Ultra,Electronics,West,2,1277.95,2555.9
+2024-12-19,ORD-000672,Smart Ring,Wearables,West,4,172.31,689.24
+2024-03-22,ORD-000673,Fitness Tracker,Wearables,North,1,100.87,100.87
+2024-12-13,ORD-000674,Health Monitor,Wearables,West,5,267.19,1335.95
+2024-11-09,ORD-000675,Keyboard Cover,Accessories,North,3,36.57,109.71
+2024-07-29,ORD-000676,Laptop Stand,Accessories,West,1,74.42,74.42
+2024-01-07,ORD-000677,Laptop Pro,Electronics,South,3,613.93,1841.79
+2024-02-18,ORD-000678,Studio Microphone,Audio,West,5,197.38,986.9
+2024-03-17,ORD-000679,Laptop Stand,Accessories,North,4,34.19,136.76
+2024-09-10,ORD-000680,Tablet X,Electronics,South,4,906.67,3626.68
+2024-05-22,ORD-000681,"Smart TV 55""",Electronics,North,3,684.75,2054.25
+2024-07-25,ORD-000682,Security Camera,Smart Home,South,4,151.1,604.4
+2024-08-17,ORD-000683,"Smart TV 55""",Electronics,North,5,833.02,4165.1
+2024-11-30,ORD-000684,Smart Ring,Wearables,North,4,192.22,768.88
+2024-10-08,ORD-000685,"Smart TV 55""",Electronics,North,5,794.8,3974.0
+2024-09-17,ORD-000686,Gaming Console,Electronics,South,3,1455.8,4367.4
+2024-04-24,ORD-000687,AR Glasses,Wearables,West,1,213.49,213.49
+2024-08-30,ORD-000688,Studio Microphone,Audio,East,5,275.56,1377.8
+2024-01-02,ORD-000689,Smartwatch Series 5,Wearables,East,2,93.84,187.68
+2024-12-25,ORD-000690,Earbuds Pro,Audio,North,3,205.25,615.75
+2024-02-24,ORD-000691,Tablet X,Electronics,East,4,890.9,3563.6
+2024-04-20,ORD-000692,Security Camera,Smart Home,West,4,71.25,285.0
+2024-01-24,ORD-000693,Screen Protector,Accessories,North,4,17.53,70.12
+2024-03-09,ORD-000694,Smart Ring,Wearables,West,5,346.3,1731.5
+2024-08-09,ORD-000695,Gaming Console,Electronics,West,5,1183.45,5917.25
+2024-03-06,ORD-000696,Security Camera,Smart Home,North,2,182.19,364.38
+2024-09-15,ORD-000697,Health Monitor,Wearables,West,3,322.76,968.28
+2024-05-20,ORD-000698,Health Monitor,Wearables,West,2,462.15,924.3
+2024-03-11,ORD-000699,Earbuds Pro,Audio,West,2,174.9,349.8
+2024-06-09,ORD-000700,Smart Lock,Smart Home,South,5,95.75,478.75
+2024-12-17,ORD-000701,Phone Case,Accessories,East,3,53.68,161.04
+2024-12-29,ORD-000702,Phone Case,Accessories,North,3,45.26,135.78
+2024-12-07,ORD-000703,Studio Microphone,Audio,West,5,183.71,918.55
+2024-01-07,ORD-000704,Smart Bulb Pack,Smart Home,North,4,223.03,892.12
+2024-04-12,ORD-000705,"Smart TV 55""",Electronics,East,1,474.38,474.38
+2024-02-01,ORD-000706,Screen Protector,Accessories,East,2,57.83,115.66
+2024-02-22,ORD-000707,Keyboard Cover,Accessories,South,4,12.25,49.0
+2024-12-20,ORD-000708,Voice Assistant,Smart Home,North,3,82.26,246.78
+2024-10-09,ORD-000709,Smart Ring,Wearables,North,3,237.44,712.32
+2024-04-25,ORD-000710,Smartphone Ultra,Electronics,East,4,543.69,2174.76
+2024-04-09,ORD-000711,Smart Lock,Smart Home,East,2,192.45,384.9
+2024-04-05,ORD-000712,Fitness Tracker,Wearables,South,1,492.54,492.54
+2024-05-22,ORD-000713,Smart Thermostat,Smart Home,East,4,112.97,451.88
+2024-01-03,ORD-000714,Phone Case,Accessories,East,3,50.87,152.61
+2024-11-01,ORD-000715,Fitness Tracker,Wearables,North,3,67.96,203.88
+2024-10-08,ORD-000716,Smart Bulb Pack,Smart Home,East,5,137.91,689.55
+2024-09-23,ORD-000717,Smartphone Ultra,Electronics,North,2,930.46,1860.92
+2024-07-25,ORD-000718,Security Camera,Smart Home,North,5,121.49,607.45
+2024-06-18,ORD-000719,Bluetooth Speaker,Audio,East,3,312.68,938.04
+2024-09-28,ORD-000720,Bluetooth Speaker,Audio,West,5,334.09,1670.45
+2024-08-16,ORD-000721,Smart Thermostat,Smart Home,South,3,55.23,165.69
+2024-12-15,ORD-000722,Smart Lock,Smart Home,East,1,83.63,83.63
+2024-05-24,ORD-000723,Smartwatch Series 5,Wearables,North,5,223.63,1118.15
+2024-08-16,ORD-000724,Smart Bulb Pack,Smart Home,West,5,143.14,715.7
+2024-06-13,ORD-000725,Smartphone Ultra,Electronics,North,2,1377.93,2755.86
+2024-09-30,ORD-000726,Tablet X,Electronics,North,5,1465.94,7329.7
+2024-12-16,ORD-000727,Tablet X,Electronics,West,2,1104.39,2208.78
+2024-11-27,ORD-000728,Tablet X,Electronics,North,4,945.3,3781.2
+2024-01-20,ORD-000729,USB-C Hub,Accessories,North,3,42.14,126.42
+2024-10-12,ORD-000730,Laptop Pro,Electronics,North,3,513.58,1540.74
+2024-07-17,ORD-000731,Security Camera,Smart Home,West,4,230.41,921.64
+2024-12-10,ORD-000732,Smart Ring,Wearables,North,4,192.37,769.48
+2024-02-02,ORD-000733,Smart Thermostat,Smart Home,North,5,171.1,855.5
+2024-05-28,ORD-000734,Smartphone Ultra,Electronics,East,1,1413.65,1413.65
+2024-07-14,ORD-000735,Smart Thermostat,Smart Home,West,4,91.92,367.68
+2024-03-10,ORD-000736,"Smart TV 55""",Electronics,West,2,487.58,975.16
+2024-06-01,ORD-000737,Smart Bulb Pack,Smart Home,East,2,241.22,482.44
+2024-03-04,ORD-000738,Gaming Console,Electronics,North,2,1349.71,2699.42
+2024-10-07,ORD-000739,Gaming Console,Electronics,North,5,1015.98,5079.9
+2024-04-18,ORD-000740,Bluetooth Speaker,Audio,West,3,269.44,808.32
+2024-11-11,ORD-000741,Security Camera,Smart Home,East,2,65.4,130.8
+2024-01-28,ORD-000742,USB-C Hub,Accessories,West,5,22.69,113.45
+2024-05-08,ORD-000743,Smart Thermostat,Smart Home,North,1,93.93,93.93
+2024-07-01,ORD-000744,Keyboard Cover,Accessories,South,3,44.09,132.27
+2024-04-09,ORD-000745,USB-C Hub,Accessories,East,1,29.95,29.95
+2024-12-21,ORD-000746,Smart Ring,Wearables,South,3,197.75,593.25
+2024-08-07,ORD-000747,Smart Lock,Smart Home,South,3,110.18,330.54
+2024-12-30,ORD-000748,Smartphone Ultra,Electronics,West,2,595.4,1190.8
+2024-09-02,ORD-000749,Earbuds Pro,Audio,West,3,72.97,218.91
+2024-10-09,ORD-000750,AR Glasses,Wearables,North,4,398.64,1594.56
+2024-03-12,ORD-000751,Keyboard Cover,Accessories,South,3,15.73,47.19
+2024-09-16,ORD-000752,Wireless Headphones,Audio,North,1,262.77,262.77
+2024-04-18,ORD-000753,Smart Lock,Smart Home,North,5,119.12,595.6
+2024-08-29,ORD-000754,Smart Bulb Pack,Smart Home,South,5,149.55,747.75
+2024-05-28,ORD-000755,Soundbar,Audio,South,5,101.45,507.25
+2024-07-05,ORD-000756,Health Monitor,Wearables,North,4,279.68,1118.72
+2024-03-12,ORD-000757,Keyboard Cover,Accessories,West,5,57.88,289.4
+2024-12-03,ORD-000758,Phone Case,Accessories,South,5,49.64,248.2
+2024-04-28,ORD-000759,AR Glasses,Wearables,North,4,68.18,272.72
+2024-09-22,ORD-000760,Earbuds Pro,Audio,East,2,104.88,209.76
+2024-01-21,ORD-000761,Smart Ring,Wearables,East,1,463.05,463.05
+2024-05-14,ORD-000762,Gaming Console,Electronics,South,3,1060.27,3180.81
+2024-09-21,ORD-000763,Smart Ring,Wearables,East,1,214.37,214.37
+2024-06-25,ORD-000764,Fitness Tracker,Wearables,West,3,282.36,847.08
+2024-08-13,ORD-000765,Health Monitor,Wearables,South,2,52.96,105.92
+2024-04-18,ORD-000766,USB-C Hub,Accessories,South,3,46.01,138.03
+2024-12-04,ORD-000767,Phone Case,Accessories,South,1,35.35,35.35
+2024-12-11,ORD-000768,AR Glasses,Wearables,West,4,374.11,1496.44
+2024-01-12,ORD-000769,Fitness Tracker,Wearables,South,4,315.85,1263.4
+2024-03-09,ORD-000770,Tablet X,Electronics,North,2,988.17,1976.34
+2024-04-02,ORD-000771,Security Camera,Smart Home,West,3,42.29,126.87
+2024-02-13,ORD-000772,Smart Lock,Smart Home,South,3,170.27,510.81
+2024-03-28,ORD-000773,Health Monitor,Wearables,South,4,496.74,1986.96
+2024-04-03,ORD-000774,Health Monitor,Wearables,East,5,114.21,571.05
+2024-10-29,ORD-000775,Screen Protector,Accessories,North,5,74.55,372.75
+2024-01-09,ORD-000776,Laptop Stand,Accessories,South,1,36.97,36.97
+2024-11-06,ORD-000777,Smart Lock,Smart Home,North,2,180.55,361.1
+2024-01-20,ORD-000778,Laptop Stand,Accessories,North,5,73.1,365.5
+2024-10-03,ORD-000779,"Smart TV 55""",Electronics,North,5,1091.26,5456.3
+2024-12-23,ORD-000780,Health Monitor,Wearables,West,1,239.3,239.3
+2024-06-28,ORD-000781,Laptop Stand,Accessories,North,4,65.26,261.04
+2024-02-12,ORD-000782,Fitness Tracker,Wearables,East,2,164.52,329.04
+2024-01-03,ORD-000783,Smart Lock,Smart Home,North,2,119.89,239.78
+2024-07-11,ORD-000784,Smart Lock,Smart Home,South,1,55.91,55.91
+2024-08-06,ORD-000785,Soundbar,Audio,East,2,145.92,291.84
+2024-11-09,ORD-000786,Studio Microphone,Audio,East,3,165.53,496.59
+2024-09-04,ORD-000787,Fitness Tracker,Wearables,South,5,235.94,1179.7
+2024-06-06,ORD-000788,Studio Microphone,Audio,East,3,207.56,622.68
+2024-04-27,ORD-000789,Fitness Tracker,Wearables,West,1,434.74,434.74
+2024-06-22,ORD-000790,USB-C Hub,Accessories,North,4,25.0,100.0
+2024-02-16,ORD-000791,Laptop Stand,Accessories,South,1,77.51,77.51
+2024-05-14,ORD-000792,Health Monitor,Wearables,South,1,245.91,245.91
+2024-07-24,ORD-000793,Wireless Headphones,Audio,East,4,224.88,899.52
+2024-11-23,ORD-000794,Smart Thermostat,Smart Home,West,2,238.05,476.1
+2024-05-26,ORD-000795,Smartwatch Series 5,Wearables,South,5,140.76,703.8
+2024-11-10,ORD-000796,Gaming Console,Electronics,South,2,912.65,1825.3
+2024-03-21,ORD-000797,Smartphone Ultra,Electronics,North,1,587.1,587.1
+2024-07-26,ORD-000798,Soundbar,Audio,South,4,142.99,571.96
+2024-02-16,ORD-000799,Smart Thermostat,Smart Home,East,1,192.11,192.11
+2024-04-25,ORD-000800,Smart Lock,Smart Home,South,3,106.57,319.71
+2024-03-30,ORD-000801,Smart Ring,Wearables,West,3,308.7,926.1
+2024-05-30,ORD-000802,Smart Thermostat,Smart Home,East,5,152.89,764.45
+2024-10-21,ORD-000803,Gaming Console,Electronics,East,5,1448.04,7240.2
+2024-06-22,ORD-000804,Smart Ring,Wearables,West,2,303.42,606.84
+2024-02-29,ORD-000805,Health Monitor,Wearables,East,4,437.9,1751.6
+2024-12-12,ORD-000806,"Smart TV 55""",Electronics,South,2,1060.38,2120.76
+2024-10-01,ORD-000807,Soundbar,Audio,North,5,335.73,1678.65
+2024-12-10,ORD-000808,Bluetooth Speaker,Audio,East,4,121.92,487.68
+2024-06-09,ORD-000809,Gaming Console,Electronics,East,4,1417.67,5670.68
+2024-09-12,ORD-000810,Keyboard Cover,Accessories,South,2,28.83,57.66
+2024-04-27,ORD-000811,Phone Case,Accessories,South,2,71.08,142.16
+2024-03-02,ORD-000812,Keyboard Cover,Accessories,North,1,34.91,34.91
+2024-01-22,ORD-000813,Health Monitor,Wearables,West,5,52.97,264.85
+2024-05-20,ORD-000814,Studio Microphone,Audio,West,5,130.92,654.6
+2024-10-22,ORD-000815,Keyboard Cover,Accessories,South,2,29.61,59.22
+2024-10-03,ORD-000816,Gaming Console,Electronics,North,4,1259.11,5036.44
+2024-08-22,ORD-000817,Smart Bulb Pack,Smart Home,North,2,116.61,233.22
+2024-01-07,ORD-000818,Voice Assistant,Smart Home,South,1,99.43,99.43
+2024-11-09,ORD-000819,Health Monitor,Wearables,East,3,95.33,285.99
+2024-08-29,ORD-000820,Keyboard Cover,Accessories,East,3,28.39,85.17
+2024-08-02,ORD-000821,Bluetooth Speaker,Audio,East,2,189.6,379.2
+2024-10-19,ORD-000822,Soundbar,Audio,South,2,119.47,238.94
+2024-04-30,ORD-000823,Security Camera,Smart Home,West,3,209.11,627.33
+2024-08-30,ORD-000824,Fitness Tracker,Wearables,North,2,115.62,231.24
+2024-09-30,ORD-000825,Laptop Stand,Accessories,East,5,44.96,224.8
+2024-01-25,ORD-000826,AR Glasses,Wearables,West,5,162.93,814.65
+2024-08-31,ORD-000827,Tablet X,Electronics,North,3,372.03,1116.09
+2024-10-13,ORD-000828,AR Glasses,Wearables,East,3,166.89,500.67
+2024-12-13,ORD-000829,Wireless Headphones,Audio,South,3,161.75,485.25
+2024-03-30,ORD-000830,Smart Lock,Smart Home,East,5,172.96,864.8
+2024-08-16,ORD-000831,Earbuds Pro,Audio,North,4,245.41,981.64
+2024-03-26,ORD-000832,Health Monitor,Wearables,East,2,178.93,357.86
+2024-02-10,ORD-000833,Health Monitor,Wearables,South,1,307.23,307.23
+2024-12-29,ORD-000834,Bluetooth Speaker,Audio,East,3,130.3,390.9
+2024-07-04,ORD-000835,Voice Assistant,Smart Home,West,4,89.66,358.64
+2024-03-05,ORD-000836,Fitness Tracker,Wearables,South,1,132.74,132.74
+2024-02-22,ORD-000837,Wireless Headphones,Audio,North,4,97.37,389.48
+2024-07-22,ORD-000838,"Smart TV 55""",Electronics,North,1,958.11,958.11
+2024-12-01,ORD-000839,Smartphone Ultra,Electronics,West,1,1041.71,1041.71
+2024-08-14,ORD-000840,Bluetooth Speaker,Audio,South,3,109.16,327.48
+2024-01-18,ORD-000841,Keyboard Cover,Accessories,East,1,68.69,68.69
+2024-05-19,ORD-000842,Soundbar,Audio,West,5,179.49,897.45
+2024-08-21,ORD-000843,Keyboard Cover,Accessories,West,5,22.38,111.9
+2024-09-03,ORD-000844,Smart Lock,Smart Home,South,3,98.12,294.36
+2024-05-13,ORD-000845,"Smart TV 55""",Electronics,South,4,669.43,2677.72
+2024-06-25,ORD-000846,Wireless Headphones,Audio,East,2,30.02,60.04
+2024-09-01,ORD-000847,Health Monitor,Wearables,East,4,53.73,214.92
+2024-04-28,ORD-000848,"Smart TV 55""",Electronics,North,5,1257.55,6287.75
+2024-08-11,ORD-000849,Smart Bulb Pack,Smart Home,West,5,71.48,357.4
+2024-07-12,ORD-000850,Phone Case,Accessories,South,4,60.04,240.16
+2024-09-21,ORD-000851,Wireless Headphones,Audio,East,2,165.11,330.22
+2024-04-06,ORD-000852,Studio Microphone,Audio,North,4,288.81,1155.24
+2024-11-12,ORD-000853,Phone Case,Accessories,West,4,30.26,121.04
+2024-01-10,ORD-000854,Studio Microphone,Audio,South,3,187.43,562.29
+2024-05-24,ORD-000855,Gaming Console,Electronics,East,1,326.55,326.55
+2024-02-16,ORD-000856,Laptop Stand,Accessories,South,2,60.89,121.78
+2024-06-08,ORD-000857,"Smart TV 55""",Electronics,West,4,560.62,2242.48
+2024-06-18,ORD-000858,Soundbar,Audio,North,1,253.01,253.01
+2024-02-06,ORD-000859,USB-C Hub,Accessories,West,4,28.65,114.6
+2024-07-14,ORD-000860,Phone Case,Accessories,North,3,72.69,218.07
+2024-05-06,ORD-000861,Tablet X,Electronics,North,4,761.75,3047.0
+2024-09-23,ORD-000862,Laptop Stand,Accessories,South,1,61.46,61.46
+2024-06-14,ORD-000863,Smart Ring,Wearables,South,3,356.64,1069.92
+2024-09-03,ORD-000864,Gaming Console,Electronics,East,3,925.1,2775.3
+2024-02-27,ORD-000865,Screen Protector,Accessories,South,2,72.12,144.24
+2024-10-26,ORD-000866,AR Glasses,Wearables,North,3,56.77,170.31
+2024-10-24,ORD-000867,Fitness Tracker,Wearables,West,1,54.01,54.01
+2024-05-07,ORD-000868,Security Camera,Smart Home,South,1,111.7,111.7
+2024-11-16,ORD-000869,Smartwatch Series 5,Wearables,North,3,358.67,1076.01
+2024-02-24,ORD-000870,Smartphone Ultra,Electronics,South,5,1073.48,5367.4
+2024-11-26,ORD-000871,Fitness Tracker,Wearables,East,5,192.52,962.6
+2024-07-02,ORD-000872,Fitness Tracker,Wearables,South,4,59.6,238.4
+2024-10-13,ORD-000873,Wireless Headphones,Audio,East,4,185.29,741.16
+2024-10-05,ORD-000874,Voice Assistant,Smart Home,East,2,71.74,143.48
+2024-10-10,ORD-000875,Soundbar,Audio,South,5,118.09,590.45
+2024-05-14,ORD-000876,Gaming Console,Electronics,East,3,486.02,1458.06
+2024-07-13,ORD-000877,Smartwatch Series 5,Wearables,South,5,399.15,1995.75
+2024-05-02,ORD-000878,Gaming Console,Electronics,East,5,1328.19,6640.95
+2024-09-25,ORD-000879,Gaming Console,Electronics,West,2,1282.85,2565.7
+2024-07-28,ORD-000880,Security Camera,Smart Home,East,3,164.86,494.58
+2024-01-23,ORD-000881,Laptop Pro,Electronics,South,1,927.83,927.83
+2024-04-08,ORD-000882,USB-C Hub,Accessories,North,4,24.14,96.56
+2024-12-02,ORD-000883,Gaming Console,Electronics,West,4,1070.09,4280.36
+2024-01-26,ORD-000884,Smart Lock,Smart Home,East,3,184.28,552.84
+2024-04-16,ORD-000885,Keyboard Cover,Accessories,West,1,60.24,60.24
+2024-07-03,ORD-000886,"Smart TV 55""",Electronics,West,1,1261.21,1261.21
+2024-09-27,ORD-000887,Wireless Headphones,Audio,North,3,293.56,880.68
+2024-09-22,ORD-000888,Smartphone Ultra,Electronics,North,2,393.51,787.02
+2024-04-08,ORD-000889,Tablet X,Electronics,South,2,937.98,1875.96
+2024-07-31,ORD-000890,Security Camera,Smart Home,North,5,152.84,764.2
+2024-02-23,ORD-000891,Smart Bulb Pack,Smart Home,South,4,178.38,713.52
+2024-12-02,ORD-000892,Keyboard Cover,Accessories,South,3,38.1,114.3
+2024-06-10,ORD-000893,Smart Lock,Smart Home,East,3,127.45,382.35
+2024-06-14,ORD-000894,Soundbar,Audio,South,4,274.53,1098.12
+2024-05-10,ORD-000895,Smart Lock,Smart Home,East,5,77.05,385.25
+2024-01-18,ORD-000896,Smart Ring,Wearables,East,1,481.91,481.91
+2024-01-04,ORD-000897,Smart Thermostat,Smart Home,East,3,143.86,431.58
+2024-12-19,ORD-000898,Phone Case,Accessories,East,1,69.89,69.89
+2024-03-20,ORD-000899,Smart Lock,Smart Home,North,5,152.38,761.9
+2024-05-15,ORD-000900,"Smart TV 55""",Electronics,East,2,726.78,1453.56
+2024-02-17,ORD-000901,Security Camera,Smart Home,West,3,81.25,243.75
+2024-09-04,ORD-000902,Security Camera,Smart Home,South,3,191.53,574.59
+2024-10-31,ORD-000903,Health Monitor,Wearables,East,1,418.77,418.77
+2024-06-20,ORD-000904,Gaming Console,Electronics,East,1,757.85,757.85
+2024-04-26,ORD-000905,Smart Ring,Wearables,North,1,468.6,468.6
+2024-06-12,ORD-000906,Smartwatch Series 5,Wearables,South,1,187.14,187.14
+2024-01-26,ORD-000907,Studio Microphone,Audio,West,2,253.28,506.56
+2024-04-23,ORD-000908,Health Monitor,Wearables,West,1,308.85,308.85
+2024-02-12,ORD-000909,Soundbar,Audio,West,3,77.35,232.05
+2024-02-13,ORD-000910,Smart Thermostat,Smart Home,West,3,150.58,451.74
+2024-03-10,ORD-000911,Voice Assistant,Smart Home,West,2,200.23,400.46
+2024-04-10,ORD-000912,Security Camera,Smart Home,South,5,137.32,686.6
+2024-06-14,ORD-000913,USB-C Hub,Accessories,North,4,28.63,114.52
+2024-04-07,ORD-000914,"Smart TV 55""",Electronics,East,3,808.24,2424.72
+2024-03-27,ORD-000915,Studio Microphone,Audio,East,3,239.72,719.16
+2024-01-23,ORD-000916,Voice Assistant,Smart Home,South,4,167.09,668.36
+2024-02-27,ORD-000917,Screen Protector,Accessories,North,1,20.91,20.91
+2024-01-08,ORD-000918,Keyboard Cover,Accessories,East,3,74.86,224.58
+2024-06-18,ORD-000919,Smartphone Ultra,Electronics,South,1,840.06,840.06
+2024-05-12,ORD-000920,Security Camera,Smart Home,West,5,74.83,374.15
+2024-07-11,ORD-000921,Security Camera,Smart Home,North,1,182.91,182.91
+2024-12-22,ORD-000922,Bluetooth Speaker,Audio,East,2,49.23,98.46
+2024-02-04,ORD-000923,"Smart TV 55""",Electronics,West,1,1085.7,1085.7
+2024-05-29,ORD-000924,Earbuds Pro,Audio,West,1,306.56,306.56
+2024-06-10,ORD-000925,Laptop Stand,Accessories,West,1,45.59,45.59
+2024-09-13,ORD-000926,Smart Lock,Smart Home,West,2,49.35,98.7
+2024-06-05,ORD-000927,Smart Thermostat,Smart Home,East,5,38.74,193.7
+2024-06-26,ORD-000928,Smart Ring,Wearables,East,1,384.97,384.97
+2024-05-21,ORD-000929,Earbuds Pro,Audio,North,5,105.58,527.9
+2024-10-11,ORD-000930,Soundbar,Audio,East,1,314.92,314.92
+2024-12-02,ORD-000931,Phone Case,Accessories,South,4,33.92,135.68
+2024-11-16,ORD-000932,"Smart TV 55""",Electronics,South,5,924.85,4624.25
+2024-06-08,ORD-000933,Fitness Tracker,Wearables,East,4,307.79,1231.16
+2024-10-24,ORD-000934,Health Monitor,Wearables,South,2,109.29,218.58
+2024-03-10,ORD-000935,Screen Protector,Accessories,West,5,58.19,290.95
+2024-02-04,ORD-000936,Keyboard Cover,Accessories,North,3,74.19,222.57
+2024-01-16,ORD-000937,Screen Protector,Accessories,East,2,68.76,137.52
+2024-03-18,ORD-000938,Smart Ring,Wearables,South,3,186.5,559.5
+2024-11-11,ORD-000939,Tablet X,Electronics,East,5,521.69,2608.45
+2024-04-28,ORD-000940,Smart Lock,Smart Home,South,5,164.71,823.55
+2024-03-09,ORD-000941,Smartphone Ultra,Electronics,West,4,395.36,1581.44
+2024-08-30,ORD-000942,Bluetooth Speaker,Audio,South,4,302.67,1210.68
+2024-01-08,ORD-000943,Phone Case,Accessories,East,4,25.83,103.32
+2024-04-14,ORD-000944,Fitness Tracker,Wearables,North,2,384.05,768.1
+2024-12-18,ORD-000945,Laptop Stand,Accessories,East,4,70.69,282.76
+2024-11-07,ORD-000946,Fitness Tracker,Wearables,West,1,242.39,242.39
+2024-10-31,ORD-000947,Soundbar,Audio,North,5,225.67,1128.35
+2024-05-05,ORD-000948,Smart Thermostat,Smart Home,West,1,129.34,129.34
+2024-04-07,ORD-000949,Gaming Console,Electronics,East,1,764.87,764.87
+2024-08-24,ORD-000950,Smart Ring,Wearables,South,3,447.97,1343.91
+2024-12-19,ORD-000951,AR Glasses,Wearables,South,1,325.9,325.9
+2024-02-27,ORD-000952,Smart Ring,Wearables,South,5,90.69,453.45
+2024-06-14,ORD-000953,Smart Lock,Smart Home,West,4,59.76,239.04
+2024-08-20,ORD-000954,Tablet X,Electronics,North,2,844.41,1688.82
+2024-03-04,ORD-000955,Earbuds Pro,Audio,North,2,251.34,502.68
+2024-09-25,ORD-000956,"Smart TV 55""",Electronics,West,1,1060.88,1060.88
+2024-10-08,ORD-000957,Smart Lock,Smart Home,West,4,238.94,955.76
+2024-12-03,ORD-000958,Tablet X,Electronics,South,5,1394.69,6973.45
+2024-08-02,ORD-000959,Phone Case,Accessories,East,1,22.51,22.51
+2024-03-01,ORD-000960,Soundbar,Audio,South,2,122.4,244.8
+2024-01-07,ORD-000961,USB-C Hub,Accessories,West,3,53.57,160.71
+2024-11-07,ORD-000962,Smart Ring,Wearables,West,1,294.57,294.57
+2024-08-20,ORD-000963,Phone Case,Accessories,West,4,51.21,204.84
+2024-05-05,ORD-000964,Smartwatch Series 5,Wearables,East,1,320.54,320.54
+2024-01-26,ORD-000965,Smart Lock,Smart Home,South,2,210.42,420.84
+2024-03-15,ORD-000966,USB-C Hub,Accessories,North,1,55.72,55.72
+2024-01-26,ORD-000967,Smart Lock,Smart Home,North,1,95.65,95.65
+2024-11-08,ORD-000968,Fitness Tracker,Wearables,South,3,122.59,367.77
+2024-02-17,ORD-000969,Health Monitor,Wearables,East,1,212.07,212.07
+2024-08-06,ORD-000970,Earbuds Pro,Audio,North,1,317.2,317.2
+2024-06-17,ORD-000971,Soundbar,Audio,West,3,73.04,219.12
+2024-01-30,ORD-000972,Security Camera,Smart Home,North,5,183.07,915.35
+2024-12-18,ORD-000973,Smart Lock,Smart Home,East,4,247.17,988.68
+2024-09-26,ORD-000974,Health Monitor,Wearables,East,3,431.5,1294.5
+2024-11-19,ORD-000975,Keyboard Cover,Accessories,West,5,49.37,246.85
+2024-12-28,ORD-000976,Fitness Tracker,Wearables,East,2,447.64,895.28
+2024-11-16,ORD-000977,USB-C Hub,Accessories,North,4,18.26,73.04
+2024-01-24,ORD-000978,Keyboard Cover,Accessories,East,4,79.92,319.68
+2024-01-06,ORD-000979,Studio Microphone,Audio,South,2,287.92,575.84
+2024-06-02,ORD-000980,Earbuds Pro,Audio,East,3,282.85,848.55
+2024-07-21,ORD-000981,Laptop Pro,Electronics,North,3,1122.99,3368.97
+2024-12-10,ORD-000982,Phone Case,Accessories,West,3,33.13,99.39
+2024-03-20,ORD-000983,Smartwatch Series 5,Wearables,West,4,340.53,1362.12
+2024-01-29,ORD-000984,Smart Bulb Pack,Smart Home,East,4,131.73,526.92
+2024-04-16,ORD-000985,Smart Bulb Pack,Smart Home,East,1,152.13,152.13
+2024-01-16,ORD-000986,Wireless Headphones,Audio,East,3,340.27,1020.81
+2024-11-06,ORD-000987,Health Monitor,Wearables,West,5,429.07,2145.35
+2024-12-27,ORD-000988,Keyboard Cover,Accessories,East,3,18.17,54.51
+2024-05-01,ORD-000989,Smartphone Ultra,Electronics,East,4,796.63,3186.52
+2024-03-30,ORD-000990,AR Glasses,Wearables,North,3,147.25,441.75
+2024-08-15,ORD-000991,Wireless Headphones,Audio,North,1,278.88,278.88
+2024-09-04,ORD-000992,Health Monitor,Wearables,East,3,119.32,357.96
+2024-09-21,ORD-000993,Bluetooth Speaker,Audio,South,1,276.22,276.22
+2024-02-29,ORD-000994,USB-C Hub,Accessories,North,5,42.15,210.75
+2024-02-14,ORD-000995,Wireless Headphones,Audio,East,5,249.85,1249.25
+2024-01-12,ORD-000996,Smartwatch Series 5,Wearables,East,3,96.39,289.17
+2024-05-21,ORD-000997,Screen Protector,Accessories,East,3,24.03,72.09
+2024-05-20,ORD-000998,Smartwatch Series 5,Wearables,North,2,172.68,345.36
+2024-04-15,ORD-000999,Gaming Console,Electronics,East,1,971.54,971.54
+2024-10-20,ORD-001000,Smart Bulb Pack,Smart Home,South,3,89.62,268.86
