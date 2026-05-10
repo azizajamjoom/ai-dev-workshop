@@ -121,11 +121,11 @@ Verify the live public URL renders the dashboard correctly.
 
 **Goal**: A publicly accessible URL serving the ShopSmart dashboard from Streamlit Community Cloud.
 
-- [ ] T031 Commit all project files (`app.py`, `data.py`, `requirements.txt`, `.streamlit/config.toml`, `data/sales-data.csv`, `scripts/generate_data.py`, `tests/`) to git with message `feat: initial ShopSmart sales analytics dashboard`
-- [ ] T032 Push branch `001-analytics-dashboard` to GitHub remote and open a pull request targeting `main`; merge after review
-- [ ] T033 On [share.streamlit.io](https://share.streamlit.io): click "New app", connect the GitHub repo, select branch `main`, set main file path to `app.py`, click Deploy
-- [ ] T034 Once deployed, open the public `*.streamlit.app` URL and verify: Overview tab shows 4 KPI cards, trend chart with toggle, category and region charts; Data tab shows table and Download CSV button; no errors in the browser console
-- [ ] T035 Run through the `quickstart.md` validation checklist: verify Total Orders ≈ 482, Top Category is Electronics or Audio, all 4 regions appear in the region chart
+- [x] T031 Commit all project files (`app.py`, `data.py`, `requirements.txt`, `.streamlit/config.toml`, `data/sales-data.csv`, `scripts/generate_data.py`, `tests/`) to git with message `feat: initial ShopSmart sales analytics dashboard`
+- [x] T032 Push branch `001-analytics-dashboard` to GitHub remote and open a pull request targeting `main`; merge after review
+- [x] T033 On [share.streamlit.io](https://share.streamlit.io): click "New app", connect the GitHub repo, select branch `main`, set main file path to `app.py`, click Deploy
+- [x] T034 Once deployed, open the public `*.streamlit.app` URL and verify: Overview tab shows 4 KPI cards, trend chart with toggle, category and region charts; Data tab shows table and Download CSV button; no errors in the browser console
+- [x] T035 Run through the `quickstart.md` validation checklist: verify Total Orders ≈ 482, Top Category is Electronics or Audio, all 4 regions appear in the region chart
 
 **Checkpoint**: Dashboard is live, publicly accessible, and all acceptance criteria from the spec are met.
 
